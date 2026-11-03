@@ -8,7 +8,7 @@ Repositorio que recopila las prácticas de laboratorio, ejercicios prácticos y 
 
 El contenido está organizado por temas y prácticas progresivas:
 
-```text
+
 ├── 07_ redes neuronales/              # Implementación y arquitectura de redes neuronales profundas
 ├── Redes neuronales/                  # Conceptos fundamentales y primeros modelos neuronales
 ├── kmeans/                            # Modelos de clustering no supervisado (K-Means)
