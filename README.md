@@ -69,5 +69,5 @@ Sigue estos pasos para clonar el repositorio y ejecutar los cuadernos en tu máq
 
 ## 👤 Autor
 
-- **Ismael Barcaza Flores**
+- **Ismael Balcazar Flores**
 - GitHub: [@IsmaelBF](https://github.com/IsmaelBF)
