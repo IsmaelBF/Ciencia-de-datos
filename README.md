@@ -2,7 +2,7 @@
 
 Repositorio que recopila las prácticas de laboratorio, ejercicios prácticos y notas desarrolladas a lo largo de la materia de Ciencia de Datos. Incluye desde la introducción al análisis exploratorio y extracción de información web, hasta modelos clásicos de aprendizaje automático y redes neuronales.
 
----
+---text
 
 ## 📁 Estructura del Repositorio
 
@@ -18,6 +18,7 @@ El contenido está organizado por temas y prácticas progresivas:
 ├── Clase 3-4 EDA/                     # Análisis Exploratorio de Datos (EDA) y visualización estadística
 ├── EDA libros/                        # Proyecto/caso práctico de EDA aplicado a dataset de libros
 └── primeros pasos/                    # Cuadernos introductorios de sintaxis y librerías base
+---
 
 ## 🛠️ Tecnologías y Librerías Utilizadas
 
