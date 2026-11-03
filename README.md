@@ -24,7 +24,7 @@ El contenido está organizado por temas y prácticas progresivas:
 
 ## 🛠️ Tecnologías y Librerías Utilizadas
 
-- **Lenguaje:** Python 3.x
+- **Lenguaje:** Python 3.14.6
 - **Entorno:** Jupyter Notebooks (`.ipynb`)
 - **Procesamiento y Análisis:** `pandas`, `numpy`
 - **Visualización:** `matplotlib`, `seaborn`
